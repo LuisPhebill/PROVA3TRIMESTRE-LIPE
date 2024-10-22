@@ -1,2 +1,10 @@
- 
+body {
+    background-color: black;
 
+}
+   
+.paragrafo {
+
+    color: aquamarine;
+    font-size: smaller;
+}
