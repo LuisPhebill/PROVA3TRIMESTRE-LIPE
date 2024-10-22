@@ -9,12 +9,15 @@ body {
 
     color: aquamarine;
     font-size: smaller;
+    font: italic;
 }
 
  h1 {
     color: aquamarine;
+    font: italic;
  }
 
  ul {
     color:aquamarine
+   
  }
